@@ -1,6 +1,6 @@
 /*
-# Author:           Travis Burkhardt
-# BannerID:         001398102
+# Author:           [Removed from Github Version]
+# BannerID:         [Removed from Github Version]
 # Course:           CS 181
 # Assignment:       PA4
 # Date Assigned:    Monday, March 18, 2024
