@@ -68,5 +68,6 @@ payAvg = paySum / manCap;
 cout << "The manager with the most pay is " << ptr[maxPay].getName() << ", who is paid $" << fixed << setprecision(2) << ptr[maxPay].calcPay() << ".\n" ;
 cout << "Average pay is $" << payAvg << ".";
 delete[] ptr;
+cout << "Press enter to exit the program.";
 return 0;
 }
